@@ -21,6 +21,4 @@ public class Rectangle {
     double perimeterCalculator(double side1, double side2) {
         return 2 * (side1 + side2);
     }
-
-
 }

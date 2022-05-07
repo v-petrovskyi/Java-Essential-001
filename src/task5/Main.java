@@ -16,10 +16,5 @@ public class Main {
                            address.getStreet() + " " +
                            address.getHouse() + " " +
                            address.getApartment());
-
-
-        System.out.println(address); // через toString
-
-
     }
 }

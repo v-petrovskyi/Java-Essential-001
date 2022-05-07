@@ -56,15 +56,4 @@ public class Address {
         this.apartment = apartment;
     }
 
-    @Override
-    public String toString() {
-        return "Address{" +
-                "index=" + index +
-                ", country='" + country + '\'' +
-                ", city='" + city + '\'' +
-                ", street='" + street + '\'' +
-                ", house=" + house +
-                ", apartment=" + apartment +
-                '}';
-    }
 }

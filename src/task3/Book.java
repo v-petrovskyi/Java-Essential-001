@@ -13,6 +13,5 @@ public class Book {
         author.show();
         content.show();
         title.show();
-
     }
 }
